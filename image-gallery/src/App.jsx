@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Image Gallery</h1>
+      <h2>galeria de imagen 2</h2>
       <p></p>
     </>
   )
