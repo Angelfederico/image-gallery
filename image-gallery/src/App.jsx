@@ -6,7 +6,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Image Gallery</h1>
+    <>
+      <h1>Image Gallery</h1>
+      <p></p>
+    </>
   )
 }
 
