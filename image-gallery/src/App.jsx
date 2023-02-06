@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>Image Gallery</h1>
 
-
+      <p>aplicacion de imagenes</p>
     </>
   )
 }
